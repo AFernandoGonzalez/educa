@@ -12,6 +12,8 @@ django-braces = "*"
 "django.embed-video" = "*"
 python-memcached = "*"
 django-memcache-status = "*"
+djangorestframework = "*"
+requests = "*"
 
 [requires]
 python_version = "3.9"
